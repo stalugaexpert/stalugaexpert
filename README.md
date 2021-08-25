@@ -6,6 +6,7 @@ I am a 4th year student of Automation and Robotics at the West Pomeranian Univer
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing sports and taking photos
+- 📇 Contact me: stalegapawel@gmail.com
 
 ### Connect with me:
 
