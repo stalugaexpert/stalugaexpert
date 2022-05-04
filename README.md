@@ -1,6 +1,6 @@
 ### Hi there, I'm Pawel 👋
 
-Owing to my interest in Science & IT I was able to go on to college and to get a engineering degree at the West Pomeranian University of Technology in Szczecin. 
+Owing to my interest in Science & IT I was able to go to college and to get an engineering degree at the West Pomeranian University of Technology in Szczecin. 
 
 - 🌱 I’m currently learning JS & Node and React
 - 👯 I’m looking to collaborate with other content creators
