@@ -2,9 +2,9 @@
 
 Owing to my interest in Science & IT I was able to go to college and to get an engineering degree at the West Pomeranian University of Technology in Szczecin. 
 
-- 🌱 I’m currently learning JS & Node and React
+- 🌱 I’m currently learning Node and Next
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing sports and taking photos
 - 📇 Contact me: stalegapawel@gmail.com
 - Currently working at GlobalLogic as a software developer
