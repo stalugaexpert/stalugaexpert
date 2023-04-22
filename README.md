@@ -1,6 +1,6 @@
 ### Hi there, I'm Pawel 👋
 
-Owing to my interest in Science & IT I was able to go to college and to get an engineering degree at the West Pomeranian University of Technology in Szczecin. 
+Software Engineer with a background in computer science focused on (but not only!) Frontend development (wanna be a Fullstack one day :)) and technology stack that includes TypeScript, React & Next, Node.js, Vue, JavaScript, HTML, CSS, and their ecosystem. Familiar with SCRUM-like approach for software development. Excels working in a team environment. Strong critical analysis and problem-solving.
 
 - 🌱 I’m currently learning Node and Next
 - 👯 I’m looking to collaborate with other content creators
