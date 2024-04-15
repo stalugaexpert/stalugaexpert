@@ -2,12 +2,12 @@
 
 Software Engineer with a background in computer science focused on (but not only!) Frontend development (wanna be a Fullstack one day :)) and technology stack that includes TypeScript, React & Next, Node.js, Vue, JavaScript, HTML, CSS, and their ecosystem. Familiar with SCRUM-like approach for software development. Excels working in a team environment. Strong critical analysis and problem-solving.
 
-- 🌱 I’m currently learning Node and Next
+- 🌱 Typescript, Next, Node
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing sports and taking photos
 - 📇 Contact me: stalegapawel@gmail.com
-- Currently working at GlobalLogic as a software developer
+- Currently working at GuideVision as a software developer
 
 ### Connect with me:
 
